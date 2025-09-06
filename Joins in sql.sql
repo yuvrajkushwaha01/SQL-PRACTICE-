@@ -135,3 +135,4 @@ FROM Employee3 e
 FULL OUTER JOIN Department d
 ON e.Department_id = d.Department_id;
 
+
